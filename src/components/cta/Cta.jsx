@@ -2,7 +2,7 @@ import React from 'react';
 import './Cta.css';
 
 function Cta() {
-  return <div></div>;
+  return <div>Cta</div>;
 }
 
 export default Cta;
